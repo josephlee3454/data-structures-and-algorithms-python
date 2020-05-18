@@ -1,9 +1,9 @@
 # data-structures-and-algorithms-python
-# shft array
-* the task was to add up the matrix i could only get the atrrays within the matrix to do that if i could find out some way on how to break local varibles out of functios i would be set. i maybe could do this as one giant function 
-# approach 
-* my approach was to add up the individual arrays an then add up the arrays total i honestly would use the sum method on the index values with  in the array and then use the sum method to add up the return of each array
-# solution
-* add individual arrays up together 
+# task
+* Create a Node class that has properties for the value stored in the Node, and a pointer to the next Node.
 
-[white_board](2020-05-17.png)
+# approach 
+* havnt figured that one out yet 
+# solution
+* havnt figured it out 
+[white_board](assests/2020-05-18.png)
