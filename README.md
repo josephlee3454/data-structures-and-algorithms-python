@@ -10,3 +10,4 @@
 * the slice method can be used other ways if we want to make higher levels of the aplication it is not just limited to print thats just how i percived this challenge
 # Solution
 * our solution uses a while loop to populate the array with inputs and uses a slice method that reverses the array so that the data that is appended shows up backwards to the user 
+[white-board](assests/screenshot.jpeg)
